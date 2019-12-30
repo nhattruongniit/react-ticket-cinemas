@@ -1,0 +1,799 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot renders correcty 1`] = `
+<div
+  className="app"
+>
+  <div
+    className="title"
+  >
+    <h2
+      className="title__head"
+    >
+      Spider-man: Người nhện xa nhà
+    </h2>
+    <h3
+      className="title__lead"
+    >
+      C13 | 2D Vietnam sub
+    </h3>
+  </div>
+  <div
+    className="sheets"
+  >
+    <div
+      className="sheets__row"
+    >
+      <div
+        className="sheets__alphabet"
+      >
+        A
+      </div>
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet empty false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet empty false"
+        onClick={[Function]}
+      />
+    </div>
+    <div
+      className="sheets__row"
+    >
+      <div
+        className="sheets__alphabet"
+      >
+        B
+      </div>
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+    </div>
+    <div
+      className="sheets__row"
+    >
+      <div
+        className="sheets__alphabet"
+      >
+        C
+      </div>
+      <div
+        className="sheet empty false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet empty false"
+        onClick={[Function]}
+      />
+    </div>
+    <div
+      className="sheets__row"
+    >
+      <div
+        className="sheets__alphabet"
+      >
+        D
+      </div>
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet standard false"
+        onClick={[Function]}
+      />
+    </div>
+    <div
+      className="sheets__row"
+    >
+      <div
+        className="sheets__alphabet"
+      >
+        E
+      </div>
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet empty false"
+        onClick={[Function]}
+      />
+    </div>
+    <div
+      className="sheets__row"
+    >
+      <div
+        className="sheets__alphabet"
+      >
+        F
+      </div>
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet empty false"
+        onClick={[Function]}
+      />
+    </div>
+    <div
+      className="sheets__row"
+    >
+      <div
+        className="sheets__alphabet"
+      >
+        G
+      </div>
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet empty false"
+        onClick={[Function]}
+      />
+    </div>
+    <div
+      className="sheets__row"
+    >
+      <div
+        className="sheets__alphabet"
+      >
+        H
+      </div>
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet empty false"
+        onClick={[Function]}
+      />
+    </div>
+    <div
+      className="sheets__row"
+    >
+      <div
+        className="sheets__alphabet"
+      >
+        J
+      </div>
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet empty false"
+        onClick={[Function]}
+      />
+    </div>
+    <div
+      className="sheets__row"
+    >
+      <div
+        className="sheets__alphabet"
+      >
+        K
+      </div>
+      <div
+        className="sheet empty false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet vip false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet empty false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet empty false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet empty false"
+        onClick={[Function]}
+      />
+    </div>
+    <div
+      className="sheets__row"
+    >
+      <div
+        className="sheets__alphabet"
+      >
+        L
+      </div>
+      <div
+        className="sheet deluxe false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet deluxe false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet deluxe false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet deluxe false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet deluxe false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet occupied false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet deluxe false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet deluxe false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet deluxe false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet deluxe false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet empty false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet empty false"
+        onClick={[Function]}
+      />
+      <div
+        className="sheet empty false"
+        onClick={[Function]}
+      />
+    </div>
+  </div>
+  <h2>
+    Chú thích
+  </h2>
+  <div
+    className="notes"
+  >
+    <div>
+      <div
+        className="type"
+      >
+        <span>
+          Đã đặt
+        </span>
+      </div>
+      <div
+        className="type type--selected"
+      >
+        <span>
+          Đang chọn
+        </span>
+      </div>
+    </div>
+    <div>
+      <div
+        className="chair chair--standard"
+      >
+        Standard - 60.000đ
+      </div>
+      <div
+        className="chair chair--vip"
+      >
+        VIP - 90.000đ
+      </div>
+      <div
+        className="chair chair--deluxe"
+      >
+        Deluxe - 110.000đ
+      </div>
+    </div>
+  </div>
+  <h2>
+    Thông tin thanh toán
+  </h2>
+  <div
+    className="payment"
+  >
+    <div>
+      CGV Crescent Mall 
+      <br />
+       
+      <br />
+      09:10~11:10 | 08/07/2019
+    </div>
+    <div>
+      0
+       đ
+    </div>
+  </div>
+</div>
+`;
